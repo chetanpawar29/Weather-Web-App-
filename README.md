@@ -35,3 +35,10 @@ To use the Weather Web App, simply follow these steps:
 Contributing:
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your proposed changes. We welcome any improvements or new features to make this Weather Web App even better!🚀🙌
+
+# Snapshot:
+
+![Snapshot4](https://github.com/Chetan-Vilas-Pawar/Weather-Web-App-/assets/163544059/005a6f9a-e3c4-4ea9-a0b7-1c2330ecc06e)
+![Snapshot2](https://github.com/Chetan-Vilas-Pawar/Weather-Web-App-/assets/163544059/2f55471a-3c0e-4883-98ce-706a7e47d285)
+![Snapshot1](https://github.com/Chetan-Vilas-Pawar/Weather-Web-App-/assets/163544059/b5ba65cd-8e32-410f-83a4-ffa1b1b28945)
+![Snapshot3](https://github.com/Chetan-Vilas-Pawar/Weather-Web-App-/assets/163544059/0bf7b91c-ada2-426a-9c37-aba1f816a341)
